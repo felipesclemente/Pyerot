@@ -1,0 +1,78 @@
+0 - The Fool
+I - The Magician
+II - The High Priestess
+III - The Empress
+IV - The Emperor
+V - The Hierophant
+VI - The Lovers
+VII - The Chariot
+VIII - Justice
+IX - The Hermit
+X - The Wheel of Fortune
+XI - Strength
+XII - The Hanged Man
+XIII - Death
+XIV - Temperance
+XV - The Devil
+XVI - The Tower
+XVII - The Star
+XVIII - The Moon
+XIX - The Sun
+XX - Judgement
+XXI - The World
+Queen of Wands
+King of Wands
+Knight of Wands
+Page of Wands
+Ace of Wands
+II of Wands
+III of Wands
+IV of Wands
+V of Wands
+VI of Wands
+VII of Wands
+VIII of Wands
+IX of Wands
+X of Wands
+Queen of Cups
+King of Cups
+Knight of Cups
+Page of Cups
+Ace of Cups
+II of Cups
+III of Cups
+IV of Cups
+V of Cups
+VI of Cups
+VII of Cups
+VIII of Cups
+IX of Cups
+X of Cups
+Queen of Swords
+King of Swords
+Knight of Swords
+Page of Swords
+Ace of Swords
+II of Swords
+III of Swords
+IV of Swords
+V of Swords
+VI of Swords
+VII of Swords
+VIII of Swords
+IX of Swords
+X of Swords
+Queen of Pentacles
+King of Pentacles
+Knight of Pentacles
+Page of Pentacles
+Ace of Pentacles
+II of Pentacles
+III of Pentacles
+IV of Pentacles
+V of Pentacles
+VI of Pentacles
+VII of Pentacles
+VIII of Pentacles
+IX of Pentacles
+X of Pentacles
