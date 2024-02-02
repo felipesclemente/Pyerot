@@ -1,7 +1,7 @@
 import tirar_um
 import tirar_tres
 
-print("Bem vindo ao cartomante digital de Tarot")
+print("Bem vindo ao Pyerot, cartomante digital de Tarot")
 
 
 def escolhe_tiragem():
